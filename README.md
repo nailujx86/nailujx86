@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Julian Blazek, a 20 year old Student, currently also working as a Java Developer.  
+I'm Julian Blazek, a Student, currently also working as a Java Developer.  
 You can find my personal website at https://nailuj.net
 
 🔭 I’m currently working on:
@@ -7,14 +7,13 @@ You can find my personal website at https://nailuj.net
   - A Music/Playlist Curation Webservice (https://github.com/Pine-Audio)
   
 🌱 I’m currently learning:
-  - Typo3
   - Vue.js
   - Node.js
   - Tensorflow and Scikit-Learn
 <!--- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...-->
 
-💬 Ask me about: Assisting you building webservices. I'm always looking for new challenges. 😊
+💬 Ask me about: Assisting you in building webservices. I'm always looking for new challenges. 😊
 
 📫 How to reach me:  
     [mail@nailuj.net](mail@nailuj.net)  [XING](https://www.xing.com/profile/Julian_Blazek)  [LinkedIn](https://www.linkedin.com/in/julian-blazek/)
