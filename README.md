@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Julian Blazek, a Student, currently also working as a Java Developer.  
+I'm Julian Blazek, a Student and currently also working as a Java Developer.  
 You can find my personal website at https://nailuj.net
 
 🔭 I’m currently working on:
