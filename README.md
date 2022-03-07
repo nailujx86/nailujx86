@@ -1,8 +1,8 @@
 ### Hi there 👋
-I'm Julian Blazek, a Student and currently also working as a Java Developer.  
+I'm Julian Blazek. I'm currently working as a Java Developer.  
 You can find my personal website at https://nailuj.net
 
-🔭 I’m currently working on:
+🔭 What I'm currently working on in my freetime:
   - Several Machine Learning Projects that are part of my Studies.
   - A Music/Playlist Curation Webservice (https://github.com/Pine-Audio)
   
