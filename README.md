@@ -2,18 +2,19 @@
 I'm Julian Blazek. I'm currently working as a Java Developer.  
 You can find my personal website at https://nailuj.net
 
-🔭 What I'm currently working on in my freetime:
+<!--🔭 What I'm currently working on in my freetime:
   - Several Machine Learning Projects that are part of my Studies.
-  - A Music/Playlist Curation Webservice (https://github.com/Pine-Audio)
+  - A Music/Playlist Curation Webservice (https://github.com/Pine-Audio)-->
   
 🌱 I’m currently learning:
   - Vue.js
   - Node.js
   - Tensorflow and Scikit-Learn
+  - TypeScript
 <!--- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...-->
 
-💬 Ask me about: Assisting you in building webservices. I'm always looking for new challenges. 😊
+<!--💬 Ask me about: Assisting you in building webservices. I'm always looking for new challenges. 😊-->
 
 📫 How to reach me:  
     [mail@nailuj.net](mail@nailuj.net)  [XING](https://www.xing.com/profile/Julian_Blazek)  [LinkedIn](https://www.linkedin.com/in/julian-blazek/)
