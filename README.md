@@ -14,6 +14,8 @@ I’m currently learning:
 <!--- I’m looking to collaborate on ...
 - I’m looking for help with ...-->
 
+My gists: https://gist.github.com/nailujx86
+
 <!--💬 Ask me about: Assisting you in building webservices. I'm always looking for new challenges. 😊-->
 
 How to reach me:  
